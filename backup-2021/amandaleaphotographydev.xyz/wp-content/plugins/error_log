@@ -1,0 +1,4 @@
+[01-Dec-2020 14:58:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function add_action() in /home/cck3kzacldzl/public_html/amandaleaphotographydev.xyz/wp-content/plugins/hello.php:69
+Stack trace:
+#0 {main}
+  thrown in /home/cck3kzacldzl/public_html/amandaleaphotographydev.xyz/wp-content/plugins/hello.php on line 69
